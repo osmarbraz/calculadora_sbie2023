@@ -5,7 +5,7 @@
 # Uma Unidade Instrucional para Apoio ao Ensino de Integração Contínua em Cursos de Graduação em Tecnologia da Informação.
 
 ## **Resumo**
-Incoerências podem causar dificuldades na interpretação de discursos e impactar o desempenho de agentes conversacionais e tutores inteligentes, entre outros. Modelos contextualizados de linguagem como o BERT não foram ainda explorados na análise de incoerência, a despeito de sua eficácia comprovada em diversas tarefas afins. Este trabalho usa variações do BERT em língua portuguesa para classificar e medir coerência textual. Experimentos com textos de notícias e de um fórum educacional de dúvidas de estudantes mostram que o BERT suporta discriminação da ordem de sentenças com até 99,20% de acurácia e algumas medidas de (in)coerência consistentes com tal classificação, sendo a maioria dos melhores resultados para os textos do fórum. 
+A Integração Contínua (CI) é uma prática de desenvolvimento de software que envolve a integração frequente e automatizada do código-fonte em um repositório central, tem sido amplamente adotada pelas organizações de desenvolvimento de software. No entanto, o ensino da CI não costuma ser abordado de maneira abrangente nos currículos dos cursos superiores na área de Tecnologia da Informação (TI), e há uma lacuna de pesquisa significativa nesse contexto. Assim, este trabalho apresenta o desenvolvimento de uma Unidade Instrucional (UI) destinada a auxiliar o ensino da CI em disciplinas de cursos superiores de TI. A UI é sistematicamente desenvolvida e aplicada por meio de estudos de caso, sendo dividida em quatro partes sequenciais. Os resultados preliminares obtidos na aplicação da UI sugerem que os alunos adquiriram conhecimentos relacionados à CI por meio dessa abordagem, proporcionando uma experiência de aprendizagem positiva.
 
 ## **Requisitos**
 
@@ -56,3 +56,5 @@ Se achar este repositório útil, sinta-se à vontade para citar nossa publicaç
     address = {Porto Alegre, RS, Brasil}        
 }
 ```
+
+Artigo submetido ao [SBIE 2023](https://cbie.sbc.org.br/2023/sbie/).
