@@ -47,11 +47,11 @@ Se achar este repositório útil, sinta-se à vontade para citar nossa publicaç
 ```bibtex 
 @inproceedings{brazhenriquehauck-2023-unidadeci,
     title = "Uma Unidade Instrucional para Apoio ao Ensino de Integração Contínua em Cursos de Graduação em Tecnologia da Informação.",
-    author = "Braz Junior, Osmar de Oliveira; Souza, Richard Henrique de and Hauck, Jean C.R.",    
+    author = "Braz Junior, Osmar de Oliveira; Souza, Richard Henrique de and Hauck, Jean CR",    
     booktitle = {Anais do XXXIV Simpósio Brasileiro de Informática na Educação},
     location = {Online},
     year = {2023},
-    pages = {XXX--XXX},
+    pages = {378-388},
     publisher = {SBC},
     address = {Porto Alegre, RS, Brasil}        
 }
