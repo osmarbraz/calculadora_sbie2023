@@ -42,7 +42,7 @@ O pipeline de CI realiza as seguintes tarefas em cada ambiente:
 
 ## Citando & Autores
 
-Se achar este repositório útil, sinta-se à vontade para citar nossa publicação:
+Se achar este repositório útil, sinta-se à vontade para citar nossa [publicação](https://cbie.sbc.org.br/2023/sbie/):
 
 ```bibtex 
 @inproceedings{brazhenriquehauck-2023-unidadeci,
@@ -56,5 +56,3 @@ Se achar este repositório útil, sinta-se à vontade para citar nossa publicaç
     address = {Porto Alegre, RS, Brasil}        
 }
 ```
-
-Artigo submetido ao [SBIE 2023](https://cbie.sbc.org.br/2023/sbie/).
