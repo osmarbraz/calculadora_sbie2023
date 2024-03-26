@@ -42,7 +42,7 @@ O pipeline de CI realiza as seguintes tarefas em cada ambiente:
 
 ## Citando & Autores
 
-Se achar este repositório útil, sinta-se à vontade para citar nossa [publicação](https://cbie.sbc.org.br/2023/sbie/):
+Se achar este repositório útil, sinta-se à vontade para citar nossa [publicação](https://sol.sbc.org.br/index.php/sbie/article/view/26678):
 
 ```bibtex 
 @inproceedings{brazhenriquehauck-2023-unidadeci,
