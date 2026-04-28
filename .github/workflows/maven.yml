@@ -53,7 +53,7 @@ jobs:
         cache: maven
     # Executa os passos da análise do código com o sonarcube     
     - name: Cache dos pacotes do SonarCloud
-      uses: actions/cache@v4
+      uses: actions/cache@v5
       with:
         path: ~/.sonar/cache
         key: ${{ runner.os }}-sonar
@@ -62,7 +62,7 @@ jobs:
     # que as próximas execuções do workflow sejam mais rápidas visto 
     # que as dependências já estarão disponibilizadas para o runner
     - name: Cache dos pacotes do Maven
-      uses: actions/cache@v4
+      uses: actions/cache@v5
       with:
         path: ~/.m2
         key: ${{ runner.os }}-m2-${{ hashFiles('**/pom.xml') }}
